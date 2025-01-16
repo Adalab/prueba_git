@@ -21,5 +21,8 @@
 - git branch --> para ver en qué rama estamos. Nosotras en nuestros proyectos siempre trabajaremos en la rama main, la principal.
 - git checkout -b nombre_rama --> Para crear nueva rama y pasarnos a ella
 - git push origin nombre_rama --> Para subir los cambios desde esa rama
+- git checkout main --> me vuelvo a la principal
+- git merge nombre_rama --> hago una unión con los cambios de la segunda rama
+- git push origin main --> he actualizado los cambios y subo la versión de main
 
 # FIN
