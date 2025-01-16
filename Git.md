@@ -20,12 +20,14 @@
 - Cuando trabajéis en proyectos reales, a veces tendréis que trabajar en ramas diferentes.
 - git branch --> para ver en qué rama estamos. Nosotras en nuestros proyectos siempre trabajaremos en la rama main, la principal.
 - git checkout -b nombre_rama --> Para crear nueva rama y pasarnos a ella
-- git checktou nombre_rama --> para cambiar de rama
+- git checktout nombre_rama --> para cambiar de rama
 - git push origin nombre_rama --> Para subir los cambios desde esa rama (los cambios solo se muestran si guardamos)
 - git checkout main --> me vuelvo a la principal
 - git merge nombre_rama --> hago una unión con los cambios de la segunda rama
+- si hay algún conflicto, lo resolvemos de forma manual
 - git push origin main --> he actualizado los cambios y subo la versión de main
 
 # FIN
+#Cambio en la rama nueva
 
 
