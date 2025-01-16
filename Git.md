@@ -23,6 +23,7 @@
 - git checktout nombre_rama --> para cambiar de rama
 - git push origin nombre_rama --> Para subir los cambios desde esa rama (los cambios solo se muestran si guardamos)
 - git checkout main --> me vuelvo a la principal
+- CAMBIO RARO
 - git merge nombre_rama --> hago una unión con los cambios de la segunda rama
 - si hay algún conflicto, lo resolvemos de forma manual
 - git push origin main --> he actualizado los cambios y subo la versión de main
